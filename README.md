@@ -1,3 +1,3 @@
 # piskvorky
 
-#h1 jednoduche piskvorky v jazyce C
+jednoduche piskvorky v jazyce C
